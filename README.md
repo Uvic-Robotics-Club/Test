@@ -39,10 +39,10 @@ Make a new file in it and call it your name:
 touch <FirstLast>.txt
 ```
 
-Now, edit the file and include following information:
-Your name, pronouns, year in school, and major
+Now, edit the file and include the following information:
+Your name, pronouns, year in school, and major and courses being taken this semester.
 A sentence or two describing your previous programming experience
-A few sentences describing what you enjoy doing outside of school and rover
+A few sentences describing what you enjoy doing outside of school
 
 You can do this either from the terminal, with vim or nano, or from a standard editor like VSCode.
 ```
